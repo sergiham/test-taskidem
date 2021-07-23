@@ -519,6 +519,11 @@ body {
   background-color: #F55E62;
 }
 
+.block-color8 {
+  background-color: #E3EBD3;
+  color: #000;
+}
+
 .container__chat {
   max-width: 470px;
   margin: 0 auto 0 0;
